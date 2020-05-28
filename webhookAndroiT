@@ -1,0 +1,22 @@
+{
+    "embed": {
+        "title": "Новый видос уже доступен!",
+        "description": "<@&705897635994664972> Вышел новый видос на канале <@286887408841261056>!\nПосмотреть можна перейдя по ссылке ниже, либо перейдя на канал.\nhttps://youtu.be/yOi-W4vjssA\n\n",
+        "footer": {
+            "text": "Не забываем про подписки на канал!"
+        },
+        "color": 65344,
+        "timestamp": "Twitch: AndroiT1337  YouTube: AndroiT Show",
+        "image": {
+            "url": "https://media.discordapp.net/attachments/461464509954129933/715569749865660446/CSVSVAL.png?width=975&height=548"
+        },
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/461464509954129933/715625276779921408/logo_andr.png"
+        },
+        "url": "https://youtu.be/yOi-W4vjssA",
+        "author": {
+            "name": "BOGDOV",
+            "icon_url": "https://cdn.discordapp.com/attachments/461464509954129933/715626494294229072/logo_23.png"
+        }
+    }
+}
